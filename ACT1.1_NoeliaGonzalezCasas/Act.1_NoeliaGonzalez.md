@@ -81,3 +81,6 @@ El meu objectiu és millorar les meves habilitats com a desenvolupadora web, esp
 - [ ] Aprendre altres llenguatges de programació i frameworks
 - [ ] Crear més projectes personals
 
+#### Objetivo profesional
+Vull treballar com a desenvolupadora web full stack, seguir aprenent i creixent en un equip 
+on pugui aportar i millorar cada dia.
